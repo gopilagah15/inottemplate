@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Noteitem = () => {
+const Noteitem = ({note}) => {
   return (
     <div>
          <div className="col-md-4">
